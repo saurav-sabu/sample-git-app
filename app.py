@@ -14,4 +14,4 @@ with col2:
 
 st.header("Courses Offered")
 
-st.selectbox("Enter choice",["Data Science","Data Analyst","Data Engineering","Python","SQL"])
+st.selectbox("Enter choice",["Data Science and Machine Learning","Data Analyst","Python","SQL"])
