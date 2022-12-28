@@ -15,3 +15,10 @@ with col2:
 st.header("Courses Offered")
 
 st.selectbox("Enter choice",["Data Science and Machine Learning","Data Analyst","Python","SQL","DSA"])
+
+st.sidebar.title("Menu")
+st.sidebar.markdown("""
+- Home
+- About
+- Contact
+""")
